@@ -6,4 +6,5 @@ led = Pin(25, Pin.OUT)
 while True:
     led.toggle()
     time.sleep(1)
-    print("hello")
+    print("hello nik ben omayma")
+    print("ok ok")
