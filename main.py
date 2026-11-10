@@ -8,3 +8,4 @@ while True:
     time.sleep(1)
     print("hello nik ben omayma")
     print("ok ok")
+    print("ok ojhhyugyuk")
